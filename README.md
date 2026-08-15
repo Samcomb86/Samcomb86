@@ -81,7 +81,7 @@ I enjoy working across the full development lifecycle from designing interfaces 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Databases

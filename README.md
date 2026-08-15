@@ -75,7 +75,7 @@ I enjoy working across the full development lifecycle from designing interfaces 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,c," alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,c,csharp" alt="Languages" />
 </p>
 
 ### Frontend

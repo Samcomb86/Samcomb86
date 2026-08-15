@@ -1,20 +1,308 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+<h1 align="center">Hi, I'm Sameed 👋</h1>
 
-- 🌱 I’m currently learning **Advanced React patterns, backend architecture**
-
-- 👯 I’m looking to collaborate on **Web development projects, PHP/MySQL apps, React/Tailwind frontends**
-
-- 💬 Ask me about **Python,Java,React**
-
-- 📫 How to reach me **sameedjaved2007@gmail.com**
-
-- ⚡ Fun fact **I'm the best.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sameed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A4C3F4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Development+Specialist;Software+Engineering+Enthusiast;Building+Modern+Digital+Experiences" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Information%20Technology-A4C3F4?style=for-the-badge&logo=academia&logoColor=282828" alt="Computer Information Technology" />
+  <img src="https://img.shields.io/badge/Web%20Development-6C63FF?style=for-the-badge&logo=code&logoColor=ffffff" alt="Web Development" />
+  <img src="https://img.shields.io/badge/TEVTA-282828?style=for-the-badge&logo=google-scholar&logoColor=A4C3F4" alt="TEVTA" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20Pakistan-282828?style=flat-square&labelColor=282828&color=6C63FF" alt="Location" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Samcomb86">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-A4C3F4?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sameedjaved86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-282828?style=for-the-badge&logo=gmail&logoColor=A4C3F4" alt="Email" />
+  </a>
+  <a href="https://github.com/Samcomb86">
+    <img src="https://img.shields.io/badge/GitHub-Samcomb86-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samcomb86&label=PROFILE%20VIEWS&color=6C63FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Samcomb86?label=FOLLOWERS&style=flat-square&color=A4C3F4&labelColor=282828" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Samcomb86?label=STARS&style=flat-square&color=6C63FF&labelColor=282828" alt="Stars" />
+</p>
+
+---
+
+## About
+
+I'm **Sameed**, a Full Stack Developer from Pakistan with **3+ years of experience** focused on modern web development and software engineering.
+
+My approach combines practical development experience with deep technical knowledge, focusing on building maintainable, scalable, and user-focused digital solutions.
+
+I enjoy working across the full development lifecycle — from designing interfaces and implementing application logic to working with APIs, databases, deployment, and ongoing optimization.
+
+### Engineering Focus
+
+- Full Stack Web Development
+- Modern Software Engineering
+- Frontend & Backend Architecture
+- API Development & Integration
+- Database-Driven Applications
+- Scalable Web Applications
+- Clean & Maintainable Code
+- Product-Oriented Development
+- Continuous Technical Learning
+
+### Open To
+
+- Full Stack Development
+- Software Engineering Opportunities
+- Web Development Projects
+- Open Source Collaboration
+- Technical Projects
+- Product Engineering
+- Challenging Engineering Problems
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" alt="Languages" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Technologies" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,mysql,postgres,mongodb,redis" alt="Backend and Databases" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,postman,vscode" alt="Cloud DevOps and Tooling" />
+</p>
+
+---
+
+## AI/ML Expertise
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| AI / Machine Learning | Exploring | Building foundational knowledge and exploring practical applications |
+| Generative AI | Exploring | Exploring modern AI-powered development workflows |
+| AI-Assisted Development | Intermediate | Using modern AI tooling to improve development workflows and productivity |
+| Software Engineering | Advanced | Strong focus on technical implementation and problem solving |
+| Full Stack Development | Advanced | End-to-end web application development |
+| Web Development | Advanced | 3+ years of practical development experience |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>🚀 GitHub Project Portfolio</strong></summary>
+
+<br>
+
+My GitHub profile contains my development work, experiments, implementations, and ongoing technical projects.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Full Stack Web Development |
+| **Scale** | Continuously evolving |
+| **Performance** | Focused on clean and efficient implementations |
+| **Security** | Security-conscious development practices |
+| **Impact** | Practical software and web development |
+| **Repository** | [View GitHub →](https://github.com/Samcomb86) |
+
+### Professional Project Approach
+
+I focus on building solutions with a balance between functionality, maintainability, performance, and user experience.
+
+My development process emphasizes:
+
+- Clean architecture
+- Maintainable code
+- Practical problem solving
+- Responsive interfaces
+- Reliable backend logic
+- API integration
+- Database-driven applications
+- Continuous improvement
+
+</details>
+
+---
+
+## Experience
+
+### Full Stack Developer
+
+**3+ Years of Development Experience**
+
+My experience is focused on full-stack web development and building practical digital solutions across the development lifecycle.
+
+#### Scope of Work
+
+- Developing modern web applications
+- Building responsive frontend interfaces
+- Implementing backend functionality
+- Working with APIs and databases
+- Debugging and optimizing applications
+- Translating requirements into functional solutions
+- Maintaining and improving existing projects
+- Exploring modern development technologies
+
+**Skills**
+
+`Full Stack Development` `Web Development` `JavaScript` `Frontend` `Backend` `APIs` `Databases` `Software Engineering`
+
+---
+
+## Achievements
+
+<p align="center">
+
+| Recognition | Details |
+|:---:|:---|
+| 🎓 **Academic Achievement** | Computer Information Technology — TEVTA |
+| 💻 **Development Experience** | 3+ years in web development |
+| 🧠 **Technical Growth** | Deep technical knowledge with continuous learning |
+| 🚀 **Engineering Focus** | Full-stack and software engineering development |
+
+</p>
+
+---
+
+## Certifications
+
+### AWS
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Exploring-282828?style=for-the-badge&logo=amazon-aws&logoColor=A4C3F4" alt="AWS" />
+</p>
+
+### Oracle
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-Exploring-282828?style=for-the-badge&logo=oracle&logoColor=A4C3F4" alt="Oracle" />
+</p>
+
+### NPTEL
+
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-Exploring-282828?style=for-the-badge&logo=academia&logoColor=A4C3F4" alt="NPTEL" />
+</p>
+
+### Cisco
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Exploring-282828?style=for-the-badge&logo=cisco&logoColor=A4C3F4" alt="Cisco" />
+</p>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-A4C3F4?style=for-the-badge&logo=geeksforgeeks&logoColor=282828" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-282828?style=for-the-badge&logo=hackerrank&logoColor=A4C3F4" alt="HackerRank" />
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-6C63FF?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samcomb86&show_icons=true&hide_border=true&bg_color=282828&title_color=A4C3F4&text_color=ffffff&icon_color=6C63FF&ring_color=6C63FF" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samcomb86&hide_border=true&background=282828&ring=6C63FF&fire=A4C3F4&currStreakLabel=A4C3F4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=AAAAAA" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samcomb86&layout=compact&hide_border=true&bg_color=282828&title_color=A4C3F4&text_color=ffffff&icon_color=6C63FF" height="180" alt="Top Languages" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samcomb86&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samcomb86&bg_color=282828&color=A4C3F4&line=6C63FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samcomb86/Samcomb86/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samcomb86/Samcomb86/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Samcomb86/Samcomb86/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced Full Stack Development
+  - Modern Software Engineering
+  - Emerging Development Technologies
+
+Building:
+  - Modern Web Applications
+  - Full Stack Projects
+  - Practical Digital Solutions
+
+Exploring:
+  - AI-Assisted Development
+  - Modern Web Technologies
+  - Software Architecture
+  - Developer Tooling
+
+Open To:
+  - Full Stack Development
+  - Software Engineering
+  - Open Source
+  - Technical Collaboration
+  - Challenging Projects

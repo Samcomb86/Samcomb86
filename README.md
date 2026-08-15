@@ -15,23 +15,12 @@
   <img src="https://img.shields.io/badge/Web%20Development-6C63FF?style=for-the-badge&logo=code&logoColor=ffffff" alt="Web Development" />
   <img src="https://img.shields.io/badge/TEVTA-282828?style=for-the-badge&logo=google-scholar&logoColor=A4C3F4" alt="TEVTA" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Pakistan-282828?style=flat-square&labelColor=282828&color=6C63FF" alt="Location" />
-</p>
-
 <p align="center">
   <a href="https://github.com/Samcomb86">
     <img src="https://img.shields.io/badge/Portfolio-GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-A4C3F4?style=for-the-badge&logo=linkedin&logoColor=282828" alt="LinkedIn" />
-  </a>
   <a href="mailto:sameedjaved86@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-282828?style=for-the-badge&logo=gmail&logoColor=A4C3F4" alt="Email" />
-  </a>
-  <a href="https://github.com/Samcomb86">
-    <img src="https://img.shields.io/badge/GitHub-Samcomb86-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 

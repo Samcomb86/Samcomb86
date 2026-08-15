@@ -111,7 +111,17 @@ My development process emphasizes:
 
 `Full Stack Development` `Web Development` `JavaScript` `Frontend` `Backend` `APIs` `Databases` `Software Engineering`
 
-
+---
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+  </picture>
+</p>
 
 ## Current Focus
 
@@ -139,14 +149,4 @@ Open To:
   - Technical Collaboration
   - Challenging Projects
 
----
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake"
-  src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-  </picture>
-</p>
+

@@ -191,68 +191,6 @@ My experience is focused on full-stack web development and building practical di
 
 </p>
 
----
-
-## Certifications
-
-### AWS
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Exploring-282828?style=for-the-badge&logo=amazon-aws&logoColor=A4C3F4" alt="AWS" />
-</p>
-
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Exploring-282828?style=for-the-badge&logo=oracle&logoColor=A4C3F4" alt="Oracle" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Exploring-282828?style=for-the-badge&logo=academia&logoColor=A4C3F4" alt="NPTEL" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Exploring-282828?style=for-the-badge&logo=cisco&logoColor=A4C3F4" alt="Cisco" />
-</p>
-
----
-
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-A4C3F4?style=for-the-badge&logo=geeksforgeeks&logoColor=282828" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-282828?style=for-the-badge&logo=hackerrank&logoColor=A4C3F4" alt="HackerRank" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-6C63FF?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samcomb86&show_icons=true&hide_border=true&bg_color=282828&title_color=A4C3F4&text_color=ffffff&icon_color=6C63FF&ring_color=6C63FF" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samcomb86&hide_border=true&background=282828&ring=6C63FF&fire=A4C3F4&currStreakLabel=A4C3F4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=AAAAAA" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samcomb86&layout=compact&hide_border=true&bg_color=282828&title_color=A4C3F4&text_color=ffffff&icon_color=6C63FF" height="180" alt="Top Languages" />
-</p>
-
----
-
 ## GitHub Trophies
 
 <p align="center">

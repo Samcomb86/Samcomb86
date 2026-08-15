@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sameed 👋</h1>
+<h1 align="center">Hi, I'm Sameed </h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sameed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -189,19 +189,6 @@ My experience is focused on full-stack web development and building practical di
 | 🧠 **Technical Growth** | Deep technical knowledge with continuous learning |
 | 🚀 **Engineering Focus** | Full-stack and software engineering development |
 
-
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samcomb86/Samcomb86/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samcomb86/Samcomb86/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Samcomb86/Samcomb86/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
 
 ## Current Focus
 

@@ -80,7 +80,7 @@ I enjoy working across the full development lifecycle — from designing interfa
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,c,c++,c#,js" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,c,javascript" alt="Languages" />
 </p>
 
 ### Frontend

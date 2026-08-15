@@ -171,7 +171,7 @@ My experience is focused on full-stack web development and building practical di
 
 | Recognition | Details |
 |:---:|:---|
-| 🎓 **Academic Achievement** | Computer Information Technology — TEVTA |
+| 🎓 **Academic Achievement** | Computer Information Technology TEVTA |
 | 💻 **Development Experience** | 3+ years in web development |
 | 🧠 **Technical Growth** | Deep technical knowledge with continuous learning |
 | 🚀 **Engineering Focus** | Full-stack and software engineering development |

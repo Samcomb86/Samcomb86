@@ -1,13 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sameed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A4C3F4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Development+Specialist;Software+Engineering+Enthusiast;Building+Modern+Digital+Experiences" alt="Typing SVG" />
   </a>
 </p>
----
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -18,7 +16,6 @@
   src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
   </picture>
 </p>
-
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Information%20Technology-A4C3F4?style=for-the-badge&logo=academia&logoColor=282828" alt="Computer Information Technology" />
   <img src="https://img.shields.io/badge/Web%20Development-6C63FF?style=for-the-badge&logo=code&logoColor=ffffff" alt="Web Development" />

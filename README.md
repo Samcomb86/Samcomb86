@@ -38,7 +38,7 @@ I'm **Sameed**, a Full Stack Developer from Pakistan with **3+ years of experien
 
 My approach combines practical development experience with deep technical knowledge, focusing on building maintainable, scalable, and user-focused digital solutions.
 
-I enjoy working across the full development lifecycle — from designing interfaces and implementing application logic to working with APIs, databases, deployment, and ongoing optimization.
+I enjoy working across the full development lifecycle from designing interfaces and implementing application logic to working with APIs, databases, deployment, and ongoing optimization.
 
 ### Engineering Focus
 
@@ -81,13 +81,13 @@ I enjoy working across the full development lifecycle — from designing interfa
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,mysql,mongodb,supabase" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,mysql,supabase" alt="Backend and Databases" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,vercel,vscode" alt="Cloud DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode" alt="Cloud DevOps and Tooling" />
 </p>
 
 ---

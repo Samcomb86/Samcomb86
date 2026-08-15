@@ -8,11 +8,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Information%20Technology-A4C3F4?style=for-the-badge&logo=academia&logoColor=282828" alt="Computer Information Technology" />
   <img src="https://img.shields.io/badge/Web%20Development-6C63FF?style=for-the-badge&logo=code&logoColor=ffffff" alt="Web Development" />
   <img src="https://img.shields.io/badge/TEVTA-282828?style=for-the-badge&logo=google-scholar&logoColor=A4C3F4" alt="TEVTA" />
-</p>
+</p> -->
 <!-- <p align="center">
   <a href="https://github.com/Samcomb86">
     <img src="https://img.shields.io/badge/Portfolio-GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
@@ -89,38 +89,6 @@ I enjoy working across the full development lifecycle from designing interfaces 
 </p>
 
 ---
-
-## AI/ML Expertise
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| AI / Machine Learning | Exploring | Building foundational knowledge and exploring practical applications |
-| Generative AI | Exploring | Exploring modern AI-powered development workflows |
-| AI-Assisted Development | Intermediate | Using modern AI tooling to improve development workflows and productivity |
-| Software Engineering | Advanced | Strong focus on technical implementation and problem solving |
-| Full Stack Development | Advanced | End-to-end web application development |
-| Web Development | Advanced | 3+ years of practical development experience |
-
----
-
-## Featured Projects
-
-<details>
-<summary><strong>🚀 GitHub Project Portfolio</strong></summary>
-
-<br>
-
-My GitHub profile contains my development work, experiments, implementations, and ongoing technical projects.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Full Stack Web Development |
-| **Scale** | Continuously evolving |
-| **Performance** | Focused on clean and efficient implementations |
-| **Security** | Security-conscious development practices |
-| **Impact** | Practical software and web development |
-| **Repository** | [View GitHub →](https://github.com/Samcomb86) |
-
 ### Professional Project Approach
 
 I focus on building solutions with a balance between functionality, maintainability, performance, and user experience.
@@ -138,53 +106,11 @@ My development process emphasizes:
 
 </details>
 
----
-
-## Experience
-
-### Full Stack Developer
-
-**3+ Years of Development Experience**
-
-My experience is focused on full-stack web development and building practical digital solutions across the development lifecycle.
-
-#### Scope of Work
-
-- Developing modern web applications
-- Building responsive frontend interfaces
-- Implementing backend functionality
-- Working with APIs and databases
-- Debugging and optimizing applications
-- Translating requirements into functional solutions
-- Maintaining and improving existing projects
-- Exploring modern development technologies
 
 **Skills**
 
 `Full Stack Development` `Web Development` `JavaScript` `Frontend` `Backend` `APIs` `Databases` `Software Engineering`
 
----
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake"
-  src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-  </picture>
-</p>
-
-## Achievements
-
-<p align="center">
-
-| Recognition | Details |
-|:---:|:---|
-| 🎓 **Academic Achievement** | Computer Information Technology TEVTA |
-| 💻 **Development Experience** | 3+ years in web development |
-| 🧠 **Technical Growth** | Deep technical knowledge with continuous learning |
-| 🚀 **Engineering Focus** | Full-stack and software engineering development |
 
 
 ## Current Focus
@@ -213,4 +139,14 @@ Open To:
   - Technical Collaboration
   - Challenging Projects
 
-    
+---
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+  </picture>
+</p>

@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Sameed </h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sameed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
@@ -15,14 +13,14 @@
   <img src="https://img.shields.io/badge/Web%20Development-6C63FF?style=for-the-badge&logo=code&logoColor=ffffff" alt="Web Development" />
   <img src="https://img.shields.io/badge/TEVTA-282828?style=for-the-badge&logo=google-scholar&logoColor=A4C3F4" alt="TEVTA" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Samcomb86">
     <img src="https://img.shields.io/badge/Portfolio-GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:sameedjaved86@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-282828?style=for-the-badge&logo=gmail&logoColor=A4C3F4" alt="Email" />
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samcomb86&label=PROFILE%20VIEWS&color=6C63FF&style=flat-square" alt="Profile Views" />

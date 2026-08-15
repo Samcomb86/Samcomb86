@@ -189,23 +189,7 @@ My experience is focused on full-stack web development and building practical di
 | 🧠 **Technical Growth** | Deep technical knowledge with continuous learning |
 | 🚀 **Engineering Focus** | Full-stack and software engineering development |
 
-</p>
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samcomb86&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samcomb86&bg_color=282828&color=A4C3F4&line=6C63FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
----
 
 ## Contribution Snake
 

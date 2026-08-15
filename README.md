@@ -80,7 +80,7 @@ I enjoy working across the full development lifecycle — from designing interfa
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,c" alt="Languages" />
 </p>
 
 ### Frontend
@@ -92,13 +92,13 @@ I enjoy working across the full development lifecycle — from designing interfa
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,mysql,postgres,mongodb,redis" alt="Backend and Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,mysql,mongodb" alt="Backend and Databases" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,postman,vscode" alt="Cloud DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,vercel,vscode" alt="Cloud DevOps and Tooling" />
 </p>
 
 ---

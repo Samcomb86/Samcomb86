@@ -24,11 +24,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samcomb86&label=PROFILE%20VIEWS&color=6C63FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Samcomb86?label=FOLLOWERS&style=flat-square&color=A4C3F4&labelColor=282828" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Samcomb86?label=STARS&style=flat-square&color=6C63FF&labelColor=282828" alt="Stars" />
-</p>
+</p> -->
 
 ---
 

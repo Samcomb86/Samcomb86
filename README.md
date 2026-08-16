@@ -95,26 +95,6 @@ I enjoy working across the full development lifecycle from designing interfaces 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode" alt="Cloud DevOps and Tooling" />
 </p>
-
----
-### Professional Project Approach
-
-I focus on building solutions with a balance between functionality, maintainability, performance, and user experience.
-
-My development process emphasizes:
-
-- Clean architecture
-- Maintainable code
-- Practical problem solving
-- Responsive interfaces
-- Reliable backend logic
-- API integration
-- Database-driven applications
-- Continuous improvement
-
-</details>
-
-
 **Skills**
 
 `Full Stack Development` `Web Development` `JavaScript` `Frontend` `Backend` `APIs` `Databases` `Software Engineering`
